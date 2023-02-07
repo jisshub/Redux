@@ -1,0 +1,22 @@
+{
+  "name": "redux",
+  "version": "1.0.0",
+  "description": "[What is Redux](#what-is-redux)",
+  "main": "redux_demo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jisshub/Redux.git"
+  },
+  "author": "Jissmon Jose",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jisshub/Redux/issues"
+  },
+  "homepage": "https://github.com/jisshub/Redux#readme",
+  "dependencies": {
+    "redux": "^4.2.1"
+  }
+}
